@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <stdlib.h>
 using namespace std;
 
@@ -19,3 +19,5 @@ int main() {
   }
   return 0;
 }
+
+//이미 다 짜져있음. 9단 추가할 필요 없는 코드-2014104110 신기성
